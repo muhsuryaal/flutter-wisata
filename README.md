@@ -1,16 +1,22 @@
-# wisata
+# 🌴 Wisata App
 
-A new Flutter project.
+Aplikasi Flutter sederhana yang menampilkan daftar tempat wisata.  
+Project ini dibuat untuk belajar dan eksplorasi pengembangan aplikasi menggunakan Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur
 
-A few resources to get you started if this is your first Flutter project:
+- Menampilkan daftar destinasi wisata
+- Navigasi antar halaman
+- Tampilan responsif
+- Siap di-build sebagai APK release
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Cara Menjalankan Project
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/surkuy/flutter-wisata.git
+   cd flutter-wisata
