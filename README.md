@@ -18,5 +18,5 @@ Project ini dibuat untuk belajar dan eksplorasi pengembangan aplikasi menggunaka
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/surkuy/flutter-wisata.git
+   git clone https://github.com/muhsuryaal/flutter-wisata.git
    cd flutter-wisata
